@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial on babel and gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "bable",
+    "npm",
+    "node"
+  ],
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
